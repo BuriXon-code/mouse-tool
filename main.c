@@ -1,5 +1,5 @@
 /*
- * mouse-tool.c
+ * mouse-tool [main.c]
  * 
  * Author: Kamil BuriXon Burek
  * Year: 2026
